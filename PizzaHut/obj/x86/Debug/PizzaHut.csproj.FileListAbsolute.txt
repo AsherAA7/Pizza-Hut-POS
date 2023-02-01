@@ -1,0 +1,30 @@
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\bin\Debug\PizzaHut.exe
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\bin\Debug\PizzaHut.pdb
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Add_Salad.resources
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Home.resources
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.exe
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.pdb
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Add_Drink.resources
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Add_Pizza.resources
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.take_orders.resources
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.ViewOrders.resources
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Properties.Resources.resources
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Security.resources
+C:\Users\hp\Desktop\OOP\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Add_user.resources
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.exe
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.pdb
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\bin\Debug\PizzaHut.exe
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\bin\Debug\PizzaHut.pdb
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.csprojResolveAssemblyReference.cache
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Add_Drink.resources
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Add_Pizza.resources
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Add_Salad.resources
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Add_user.resources
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Home.resources
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Properties.Resources.resources
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.take_orders.resources
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.ViewOrders.resources
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.csproj.GenerateResource.Cache
+C:\Users\S  A  K  H  I\Downloads\pizzahut\PizzaHut\PizzaHut\obj\x86\Debug\PizzaHut.Siginup.resources
